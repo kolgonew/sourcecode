@@ -1,0 +1,18 @@
+[
+  {
+    "sha256": "9A9B7958B83E6FEBD2F337304786FBB76CF3E37096CEE7ADE7EB2C235B709EBB",
+    "items": 54,
+    "code": "BK-AO0nxQDOD0wy",
+    "resource": "anarchia.json",
+    "retrieved": "2026-10-14",
+    "name": "Anarchia"
+  },
+  {
+    "sha256": "141F72300889939C36599AEEA3F9832613650B82E30D01AE010AA3CCD1B08D18",
+    "items": 55,
+    "code": "BK-szJWw39zUP3W",
+    "resource": "minestar.json",
+    "retrieved": "2026-10-14",
+    "name": "MineStar"
+  }
+]

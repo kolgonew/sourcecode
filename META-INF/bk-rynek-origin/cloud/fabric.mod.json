@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "template-mod",
+	"version": "1.0.0",
+	"name": "Cloud Client",
+	"description": "Klient Cloud z modułami rynku i dodatkowymi narzędziami.",
+	"authors": [
+		"Cloud"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/template-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.TemplateMod"
+		],
+		"client": [
+			"com.example.TemplateModClient"
+		]
+	},
+	"mixins": [
+		"cloud-autorynek.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

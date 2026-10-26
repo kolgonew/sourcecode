@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AutoMarketScanner",
+    "source": "D:\\mc\\BK-Client3.0\\BKClient3.0v1.21.4Clean\\BKClient\\src\\main\\java\\dev\\bkclient\\systems\\modules\\modules\\bkmods\\automarket\\AutoMarketScanner.java",
+    "sourceSha256": "05270A9BD0A59B13B419C85CF2C54A72701070FC10D4C12D31F65546DD9AD983",
+    "adaptedSha256": "76F8CA9D191398C8D4EEE0EE6F6EEB42CEA19C59E7B52D75EFEED9A3418CBCD8"
+  },
+  {
+    "name": "AutoMarketController",
+    "source": "D:\\mc\\BK-Client3.0\\BKClient3.0v1.21.4Clean\\BKClient\\src\\main\\java\\dev\\bkclient\\systems\\modules\\modules\\bkmods\\automarket\\AutoMarketController.java",
+    "sourceSha256": "94B174CC55CF96593D2A8AD7F4BF715F286E8CE2C593B9F41775541F0AA3B557",
+    "adaptedSha256": "FDF8A48DCA28D1B56011C8943FC790BC904A3705B9340852C2339ACA2CE5B91B"
+  },
+  {
+    "name": "AutoSellController",
+    "source": "D:\\mc\\BK-Client3.0\\BKClient3.0v1.21.4Clean\\BKClient\\src\\main\\java\\dev\\bkclient\\systems\\modules\\modules\\bkmods\\automarket\\AutoSellController.java",
+    "sourceSha256": "4D6393EE602DDDAE3DFE61CC1C64036BBF53F18ED54252C294825C681A636036",
+    "adaptedSha256": "50AC2B340F973F99D96EB77F18A743EF8F0CD05A9FB042879176A193ADE57F9E"
+  },
+  {
+    "name": "AnarchiaPetExpiry",
+    "source": "D:\\mc\\BK-Client3.0\\BKClient3.0v1.21.4Clean\\BKClient\\src\\main\\java\\dev\\bkclient\\systems\\modules\\modules\\bkmods\\automarket\\AnarchiaPetExpiry.java",
+    "sourceSha256": "A3D7A8D50ADEEFFD97261A86B03E1B68C2707E1D08E91BD229D40819638954A2",
+    "adaptedSha256": "1A6A3D503A830AB2D0DCC8D16F49502BE1EF311FF5F0C341D92596FE8F28074D"
+  },
+  {
+    "name": "LobbyController",
+    "source": "D:\\mc\\BK-Client3.0\\BKClient3.0v1.21.4Clean\\BKClient\\src\\main\\java\\dev\\bkclient\\systems\\modules\\modules\\bkmods\\automarket\\LobbyController.java",
+    "sourceSha256": "14FA0C46DD10E35C7466E00B9575DBA9C56A578F15E813899DF7BB63019F7003",
+    "adaptedSha256": "F43F98B93B2E0737453E48D46D9CB6658E43DE40806263A7BD17B32B70C2A895"
+  },
+  {
+    "name": "ReconnectController",
+    "source": "D:\\mc\\BK-Client3.0\\BKClient3.0v1.21.4Clean\\BKClient\\src\\main\\java\\dev\\bkclient\\systems\\modules\\modules\\bkmods\\automarket\\ReconnectController.java",
+    "sourceSha256": "78B7BEC918158F4B686CBD648D3AA83A7844D4692FDF99D2587F69209CD50D87",
+    "adaptedSha256": "271EF30F31FC627438797B4A80A6531FEC869711E08BB335F53974DDA7F29DB4"
+  }
+]
