@@ -1,0 +1,472 @@
+{
+    "mod.info": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Mod BK-Rynek by bkubiak.dev",
+        "&8- &fDołącz do discord&8: &2https://dc.bkubiak.dev",
+        "&8- &fMój GitHub&8: &2https://github.com/xqbkubiak",
+        "&8- &fChcesz wesprzeć? &2https://tipply.pl/@rajzeh",
+        " ",
+        " &6| &eConfig został wygenerowany w miejscu:",
+        " &6| &e.minecraft/config/BK-Mods/BK-Rynek/&6bkrynek-config.json",
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Komendy pod &f/bkr pomoc",
+        " "
+    ],
+    "command.afk.enabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Tryb AFK został &awłączony&7!",
+        " "
+    ],
+    "command.afk.disabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Tryb AFK został &cwyłączony&7!",
+        " "
+    ],
+    "command.profiles.list": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Dostępne profile:"
+    ],
+    "command.profile.change": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Twoj aktywny profil zostal zmieniony na: &f%profile%",
+        " "
+    ],
+    "command.add.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Dodano &f%item% &7z maksymalna cena &a%price% &7do profilu &f%profile%",
+        " "
+    ],
+    "command.remove.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Usunieto &f%item% &7z profilu &f%profile%",
+        " "
+    ],
+    "command.list": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Przedmioty dla profilu &f%profile%:"
+    ],
+    "command.help": [
+        "&8[&2B&aK &fRynek&8] &7Mod BK-Rynek by bkubiak.dev",
+        "&8- &fChcesz wesprzec? &2https://tipply.pl/@rajzeh",
+        "&8- &fDołącz do discord&8: &2https://dc.bkubiak.dev",
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Dostepne komendy:",
+        "&8- &f/bkr &8- &7Informacje o modzie",
+        "&8- &f/bkr profiles &8- &7Wyswietla dostepne profile",
+        "&8- &f/bkr list &8- &7Wyswietla przedmioty profilu",
+        "&8- &f/bkr sounds &8- &7Wlacza/wyłącza alarmy dźwiękowe",
+        "&8- &f/bkr pomoc &8- &7Lista komend",
+        "&8- &f/bkr config reload &8- &7Przeladowuje dane z configu",
+        "&8- &f/bkr autorepair &8- &7Automatyczna naprawa przed wystawieniem",
+        "&8- &f/bkr gui &8- &7Otwiera panel sterowania",
+        "&8- &f/bkr setup &8- &7Konfiguracja przyciskow rynku",
+        "&8- &f/bkr webhook <url> &8- &7Discord powiadomienia",
+        "&8- &f/bkr lang <pl|en> &8- &7Zmiana języka wiadomości",
+        " ",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aA &8- &7Dodaj przedmiot pod kursorem",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aS &8- &7Ustaw przyciski rynku (w trybie setup)",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aR &8- &7Zarządzaj podświetlaniem",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aH &8- &7Włącz/wyłącz bota",
+        "&8[&2B&aK &fRynek&8] &a/bkr afk &8- &7Włącza/wyłącza tryb Anti-AFK",
+        " "
+    ],
+    "player.join": [
+        "&8[&2B&aK &fRynek&8] &fBK-Rynek uruchomiony &apomyślnie!",
+        "&8» &7Discord: &adc.bkubiak.dev",
+        "&8» &7Komendy: &a/bkr pomoc",
+        "&8» &7GUI: &a/bkr gui"
+    ],
+    "pricelist.no_data": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cBrak danych dla profilu &f%profile%",
+        " "
+    ],
+    "pricelist.no_items": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cBrak przedmiotow w profilu &f%profile%",
+        " "
+    ],
+    "pricelist.icon.edit": [
+        "&8[&eEdytuj&8]"
+    ],
+    "pricelist.icon.remove": [
+        "&8[&cUsun&8]"
+    ],
+    "pricelist.item_line": [
+        "&8- &f%item%&8: &a%price%"
+    ],
+    "profile.set": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Ustawiono profil: &f%profile%",
+        " "
+    ],
+    "command.profiles.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Dostepne profile:"
+    ],
+    "profile.available.line": [
+        "&7- &f%profile% &8[&eKliknij aby zmienić&8]"
+    ],
+    "profile.picked.line": [
+        "&7- &a%profile% &8[&2Wybrany&8]"
+    ],
+    "command.list.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Przedmioty dla profilu &f%profile%:"
+    ],
+    "command.config.save.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aKonfiguracja zostala zapisana.",
+        " "
+    ],
+    "command.config.reload.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aKonfiguracja zostala przeladowana&7.",
+        " "
+    ],
+    "command.scanner.toggle.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Podswietlanie &awlaczone&7.",
+        " "
+    ],
+    "command.scanner.toggle.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Podswietlanie &cwylaczone&7.",
+        " "
+    ],
+    "command.automation.toggle.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Automatyzacja &awlaczona&7.",
+        " "
+    ],
+    "command.automation.toggle.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Automatyzacja &cwylaczona&7.",
+        " "
+    ],
+    "command.sounds.current_on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Powiadomienia dzwiekowe sa &awlaczone&7.",
+        " "
+    ],
+    "command.sounds.current_off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Powiadomienia dzwiekowe sa &cwylaczone&7.",
+        " "
+    ],
+    "command.sounds.enabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Powiadomienia dzwiekowe zostaly &awlaczone&7.",
+        " "
+    ],
+    "command.sounds.disabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Powiadomienia dzwiekowe zostaly &cwylaczone&7.",
+        " "
+    ],
+    "command.searchlist.list.empty": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Lista z przedmiotami do wyszukiwania jest &cpusta&7.",
+        " "
+    ],
+    "command.searchlist.add": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Dodano &a'%item%' &7do listy wyszukiwania.",
+        " "
+    ],
+    "command.searchlist.remove": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Usunięto &c'%item%' &7do listy wyszukiwania.",
+        " "
+    ],
+    "command.searchlist.start": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aRozpoczeto &7zliczanie &fwyswietlonych &7przedmiotow",
+        "&8- &7Otworz &frynek &7i przewertuj strony, a ja zajme sie reszta.",
+        "&8- &7Po zakonczeniu wpisz &f/bkr search stop &7aby poznac statysyki",
+        " ",
+        "&6| &ePo 5 minutach sam zatrzymam zliczanie",
+        " "
+    ],
+    "command.searchlist.stop.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aZakończono &7zliczanie wyswietlonych przedmiotow",
+        "&8[&2B&aK &fRynek&8] &7Oto co udalo mi sie ustalic:"
+    ],
+    "command.searchlist.stop.pages": [
+        "&8[&2B&aK &fRynek&8] &7Sprawdzone strony: &f%pages%"
+    ],
+    "command.searchlist.stop.reason.limit": [
+        "&8[&2B&aK &fRynek&8] &7Powod: &fosiagnieto limit stron"
+    ],
+    "command.searchlist.stop.reason.no_next": [
+        "&8[&2B&aK &fRynek&8] &7Powod: &fbrak kolejnej strony"
+    ],
+    "command.searchlist.stop.reason.no_gui": [
+        "&8[&2B&aK &fRynek&8] &7Powod: &fnie udalo sie otworzyc rynku"
+    ],
+    "command.searchlist.stop.reason.manual": [
+        "&8[&2B&aK &fRynek&8] &7Powod: &freczne zatrzymanie"
+    ],
+    "command.searchlist.stop.line": [
+        "&8- &f%item%&8(&a%count%&8):",
+        "   &fmin: &a%min%&7, &fmax: &2%max%&7, &fśrednia: &e%avg%",
+        "   &fmediana: &d%median%&7, &fQ1: &2%quartile1%&7, &fQ3: &a%quartile3%"
+    ],
+    "command.searchlist.list.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Lista przedmiotów do wyszukiwania:"
+    ],
+    "command.searchlist.list.line": [
+        "&8- &f%item%"
+    ],
+    "command.searchlist.list.remove.hover": [
+        "Kliknij aby usunac ten przedmiot"
+    ],
+    "command.searchlist.expired": [
+        "Czas wyszukiwania minął."
+    ],
+    "command.lang.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Język został zmieniony na: &a%lang%",
+        " "
+    ],
+    "gui.hud.prefix": [
+        "&8[&2B&aK &fRynek&8] "
+    ],
+    "gui.hud.status": [
+        "&fStatus: "
+    ],
+    "gui.hud.active": [
+        "&aAKTYWNY"
+    ],
+    "gui.hud.inactive": [
+        "&cWYŁĄCZONY"
+    ],
+    "automation.search.notfound": [
+        "&8[&2B&aK &fRynek&8] &cNie znaleziono przedmiotu: &e%s&c!"
+    ],
+    "setup.prefix": [
+        "&8[&2B&aK &fRynek&8] "
+    ],
+    "setup.step1": [
+        "&e[KROK 1] &fNajedź na przycisk &aODŚWIEŻ&f i naciśnij &6Ctrl+S"
+    ],
+    "setup.step2": [
+        "&e[KROK 2] &fNajedź na przycisk &dPOTWIERDZENIA&f i naciśnij &6Ctrl+S"
+    ],
+    "setup.step3": [
+        "&e[KROK 3] &fNajedź na przycisk &bNASTĘPNA STRONA&f i naciśnij &6Ctrl+S"
+    ],
+    "setup.error.no_config": [
+        "&c[BŁĄD] &fNie znaleziono konfiguracji dla tego serwera!"
+    ],
+    "setup.ok.refresh": [
+        "&a[OK] &fUstawiono przycisk &aODŚWIEŻ&f na slot: &e%slot%"
+    ],
+    "setup.ok.confirm": [
+        "&a[OK] &fUstawiono przycisk &dPOTWIERDZENIA&f na slot: &e%slot%"
+    ],
+    "setup.ok.next_page": [
+        "&a[OK] &fUstawiono przycisk &bNASTĘPNA STRONA&f na slot: &e%slot%"
+    ],
+    "setup.complete": [
+        "&2[SUKCES] &fKonfiguracja zakończona! Dane zostały zapisane."
+    ],
+    "setup.info.not_set": [
+        "&cNie ustawiono"
+    ],
+    "setup.info.title": [
+        "&6[INFO] &fKonfiguracja dla: &e%address%"
+    ],
+    "setup.info.refresh": [
+        "&f- Odśwież (Refresh Slot): &b%value%"
+    ],
+    "setup.info.confirm": [
+        "&f- Potwierdź (Confirm Slot): &b%value%"
+    ],
+    "setup.info.next": [
+        "&f- Następna (Next Slot): &b%value%"
+    ],
+    "setup.cancelled": [
+        "&c[SETUP] &fPrzerwano tryb ustawiania."
+    ],
+    "gui.status.active": [
+        "AKTYWNY"
+    ],
+    "gui.status.inactive": [
+        "NIEAKTYWNY"
+    ],
+    "gui.profile": [
+        "Profil"
+    ],
+    "gui.table.name": [
+        "Nazwa"
+    ],
+    "gui.table.max_price": [
+        "Max cena"
+    ],
+    "gui.no_items": [
+        "Brak wpisów na liście..."
+    ],
+    "gui.hint.ctrl_a": [
+        "Ctrl+A = Dodaj przedmiot do listy"
+    ],
+    "gui.hint.click_row": [
+        "Kliknij wiersz, aby edytować cenę"
+    ],
+    "gui.btn.add": [
+        "Dodaj"
+    ],
+    "gui.btn.cancel": [
+        "Anuluj"
+    ],
+    "gui.quick_add": [
+        "Quick Add"
+    ],
+    "gui.lore_none": [
+        "Brak"
+    ],
+    "gui.lore": [
+        "Lore"
+    ],
+    "gui.enter_max_price": [
+        "Podaj cenę maksymalną:"
+    ],
+    "command.webhook.success": [
+        "&8[&2B&aK &fRynek&8] &aWebhook został ustawiony!"
+    ],
+    "command.profile.change.tooltip": [
+        "Kliknij, aby zmienic profil na %profile%"
+    ],
+    "automation.start": [
+        "&2Uruchomiono tryb: &e%mode%"
+    ],
+    "automation.start_hint": [
+        "&7Wpisz &f/ah&7 aby rozpocząć."
+    ],
+    "automation.stop": [
+        "&cZatrzymano automatyzację."
+    ],
+    "automation.confirm.timeout": [
+        "&eBrak potwierdzenia na chacie. Kontynuuję..."
+    ],
+    "automation.buy.timeout": [
+        "&cZakup przekroczył limit czasu. Resetuję..."
+    ],
+    "automation.buy.finished": [
+        "&aZakończono kupowanie. Restartuję..."
+    ],
+    "automation.buy.confirming": [
+        "&aPotwierdzam zakup..."
+    ],
+    "automation.chat.skip": [
+        "&aPomijam oczekiwanie na chat. Kontynuuję..."
+    ],
+    "automation.chat.waiting": [
+        "&7Oczekiwanie na potwierdzenie z czatu..."
+    ],
+    "automation.pages.end": [
+        "&eKoniec stron. Powrót na start."
+    ],
+    "automation.market.restarting": [
+        "&eRestartuję rynek..."
+    ],
+    "automation.item.found": [
+        "&6Znaleziono przedmiot! Kupuję..."
+    ],
+    "automation.webhook.success_confirmed": [
+        "&a[WEBHOOK] &fSukces zakupu potwierdzony! Wysyłam powiadomienie."
+    ],
+    "automation.item.sold": [
+        "&ePrzedmiot został już sprzedany. Szukam dalej..."
+    ],
+    "automation.error.no_money": [
+        "Brak środków na koncie! Zatrzymuję bota."
+    ],
+    "automation.error.no_money_item": [
+        "Brak funduszy!"
+    ],
+    "automation.sending": [
+        "&7Wysyłam: &f/%command%"
+    ],
+    "command.preset.save.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aZapisano preset &f%preset% &adla profilu &f%profile%",
+        " "
+    ],
+    "command.preset.save.empty": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cNie można zapisać presetu - lista jest pusta!",
+        " "
+    ],
+    "command.preset.load.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aZaładowano preset &f%preset% &adla profilu &f%profile%",
+        " "
+    ],
+    "command.preset.load.notfound": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cNie znaleziono presetu &f%preset%&c!",
+        " "
+    ],
+    "command.preset.load.tooltip": [
+        "Kliknij aby załadować preset %preset%"
+    ],
+    "command.preset.list.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Presety dla profilu &f%profile%:"
+    ],
+    "command.preset.list.empty": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cBrak presetów dla profilu &f%profile%",
+        "&8[&2B&aK &fRynek&8] &7Użyj &f/bkr preset save <nazwa> &7aby zapisać aktualny zestaw",
+        " "
+    ],
+    "command.preset.list.active": [
+        "&7- &a%preset% &8[&2Aktywny&8]"
+    ],
+    "command.preset.list.line": [
+        "&7- &f%preset% &8[&eKliknij aby załadować&8]"
+    ],
+    "command.preset.delete.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aUsunięto preset &f%preset%",
+        " "
+    ],
+    "command.preset.delete.notfound": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cNie znaleziono presetu &f%preset%&c!",
+        " "
+    ],
+    "command.autorepair.status": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Auto-Repair jest obecnie %status%",
+        " "
+    ],
+    "command.autorepair.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Auto-Repair został &awłączony&7!",
+        " "
+    ],
+    "command.autorepair.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Auto-Repair został &cwyłączony&7!",
+        " "
+    ],
+    "command.autorepair.cmd": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Komenda naprawy została ustawiona na: &f%command%",
+        " "
+    ],
+    "command.ignorecomponents.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Ignorowanie ilości komponentów: &aWŁĄCZONE",
+        " "
+    ],
+    "command.ignorecomponents.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Ignorowanie ilości komponentów: &cWYŁĄCZONE",
+        " "
+    ]
+}

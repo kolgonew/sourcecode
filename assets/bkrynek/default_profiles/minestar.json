@@ -1,0 +1,1022 @@
+{
+  "name": "fixed",
+  "date": 1792000259769,
+  "server": "minestar.gg",
+  "favicon": "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",
+  "settings": {
+    "modules.settings.auto_market.open_bind": 55,
+    "modules.settings.auto_market.quick_add_bind": 48,
+    "modules.settings.auto_market.scan_key": 88,
+    "modules.settings.auto_market.refresh_rate": {
+      "value": 327.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.confirm_delay": {
+      "value": 347.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.restart_delay": {
+      "value": 1070.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.aggressive_mode": false,
+    "modules.settings.auto_market.debug_screen_info": false,
+    "modules.settings.auto_market.unit_mode_global": "Unit",
+    "modules.settings.auto_market.auto_jump": false,
+    "modules.settings.auto_market.auto_repair": false,
+    "modules.settings.auto_market.auto_sell": false,
+    "modules.settings.auto_market.sell_interval": {
+      "value": 1.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.sell_tax": {
+      "value": 2.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.show_history": true,
+    "modules.settings.auto_market.webhook_screenshot": false,
+    "modules.settings.auto_market.sell_command": "/ah sell  {price}",
+    "modules.settings.auto_market.market_command": "/ah open",
+    "modules.settings.auto_market.custom_title": "",
+    "modules.settings.auto_market.ignore_market_title": true,
+    "modules.settings.auto_market.rapy_mode": false,
+    "modules.settings.auto_market.minestar_mode": true,
+    "modules.settings.auto_market.minestar_next_slot": {
+      "value": 46.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.minestar_prev_slot": {
+      "value": 46.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.confirm_slot": {
+      "value": 24.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.sorting_slot": {
+      "value": 18.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.refresh_slot": {
+      "value": 0.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.next_page_slot": {
+      "value": 36.0,
+      "multiplier": 1
+    },
+    "modules.settings.auto_market.sorting_keyword": "",
+    "modules.settings.auto_market.confirm_item_name": "",
+    "modules.settings.auto_market.lore_regex": "(?i).*(?:Cena|Koszt|Price).*?(?:\\$\\s*)?([\\d\\s.,]+(?:mld|[kmbt])?)\\s*\\$?.*",
+    "modules.settings.auto_market.lore_seller_regex": "",
+    "modules.settings.auto_market.item_registry": [
+      {
+        "name": "§lɢ§lʀ§lᴀ§lɴ§7§lᴀ§lᴛ§l §lᴜ§lᴡ§lɪ§lę§lᴢ§lɪ§lᴇ§lɴ§lɪ§lᴀ",
+        "lore": "§8× §fPo rzuceniu wszyscy gracze w obrębie;§8× §fkilku kratek zostają złapani w §cpajęczą pułapkę;§8× §4§lUwaga! §cPrzedmiot jest jednorazowy",
+        "unitMode": false,
+        "material": "turtle_scute",
+        "enchants": "",
+        "maxPrice": 4438.0,
+        "sellPrice": 6313.0,
+        "customModelData": 1003,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴘ§lɪ§lᴌ§lᴋ§lᴀ§l §lᴘ§lʟ§lᴀ§lż§lᴏ§lᴡ§lᴀ",
+        "lore": "§8× §fPo trafieniu w gracza §dzamieniamy się §fz nim miejscami;§8× §4§lUwaga! §cPrzedmiot jest jednorazowy",
+        "unitMode": false,
+        "material": "snowball",
+        "enchants": "",
+        "maxPrice": 26980.0,
+        "sellPrice": 38380.0,
+        "customModelData": 1004,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴋ§lᴏ§lᴋ§lᴏ§lꜱ",
+        "lore": "§8§l☰ §fPo zjedzeniu otrzymujemy:;§8§l➥ §dEfekt regeneracja II §f(5s);§8§l➥ §eEfekt absorpcja II §f(120s);§8§l➥ §bEfekt szybkość I §f(10s);§8× §4§lUwaga! §cPrzedmiot jest jednorazowy;§aPrzytrzymaj §f§a aby zjeść",
+        "unitMode": false,
+        "material": "enchanted_golden_apple",
+        "enchants": "",
+        "maxPrice": 12425.0,
+        "sellPrice": 17675.0,
+        "customModelData": 1001,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʟ§ló§lᴅ§l §lɴ§lᴀ§l §lᴘ§lᴀ§lᴛ§lʏ§lᴋ§lᴜ",
+        "lore": "§8× §fPo uderzeniu gracza nadajemy mu oraz;§8× §fsobie §befekt lewitacji §fna określony czas",
+        "unitMode": false,
+        "material": "stick",
+        "enchants": "",
+        "maxPrice": 2102222.0,
+        "sellPrice": 2468888.0,
+        "customModelData": 1007,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʟ§lᴀ§lᴍ§lᴘ§lɪ§lᴏ§lɴ",
+        "lore": "§8× §fPo użyciu otrzymujemy §cregenerację §fna kilka sekund",
+        "unitMode": false,
+        "material": "brick",
+        "enchants": "",
+        "maxPrice": 1491000.0,
+        "sellPrice": 2121000.0,
+        "customModelData": 1001,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴢ§lᴀ§lᴍ§lᴇ§lᴋ§l §lᴢ§l §lᴘ§lɪ§lᴀ§lꜱ§lᴋ§lᴜ",
+        "lore": "§8× §fPo użyciu §6tworzymy §fdookoła;§8× §fnas §ezamek z piasku §fi zamykamy w nim;§8× §fwszystkich graczy w obrębie na określony czas",
+        "unitMode": false,
+        "material": "honeycomb",
+        "enchants": "",
+        "maxPrice": 1633000.0,
+        "sellPrice": 2323000.0,
+        "customModelData": 1004,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§fᴋᴏꜱᴛɪᴜᴍ §lᴘʟᴀżᴏᴡɪᴄᴢᴀ",
+        "lore": "§f §eᴅᴏᴅᴀᴛᴋɪ §fᴘᴏ ᴢᴀʟᴏżᴇɴɪᴜ:;§8§l➥ §fꜱᴢᴀɴꜱᴀ ɴᴀ §cᴢᴀʙʟᴏᴋᴏᴡᴀɴɪᴇ ᴘᴇʀᴋᴀ §fᴘʀᴢᴇᴄɪᴡɴɪᴋᴀ;§8§l➥ §f+5% ᴅᴏ ᴘᴇʀᴋᴜ §cᴢᴡɪęᴋꜱᴢᴏɴʏᴄʜ ᴏʙʀᴀżᴇń;§8§l➥ §fɴɪɢᴅʏ ɴɪᴇ ꜱᴛᴀᴊᴇꜱᴢ ꜱɪę §9ɢłᴏᴅɴʏ;§8§l➥ §f3x  §fᴢᴏꜱᴛᴀᴊᴇᴍʏ §aᴘᴏᴍɴɪᴇᴊꜱᴢᴇɴɪ §fᴏ §a20% §fɴᴀ ᴋɪʟᴋᴀ ꜱᴇᴋᴜɴᴅ",
+        "unitMode": false,
+        "enchantments": {
+          "soul_speed": 1
+        },
+        "material": "leather_chestplate",
+        "enchants": "soul_speed 1",
+        "maxPrice": 1278000.0,
+        "sellPrice": 1818000.0,
+        "customModelData": 11103,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lᴋᴀᴍɪᴇń §b§lᴏᴅᴘᴏʀɴᴏśᴄɪ",
+        "lore": "§f §fTen kamień użyjesz u ꜱᴢᴀᴍᴀɴᴀ§f,;§f §fdzięki niemu możesz ulepszyć;§f §f1 z 3 perków kategorii §bᴏʙʀᴏɴᴀ",
+        "unitMode": false,
+        "material": "paper",
+        "enchants": "",
+        "maxPrice": 15620.0,
+        "sellPrice": 22220.0,
+        "customModelData": 1300,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lᴋᴀᴍɪᴇń §a§lɪɴᴛᴇʟɪɢᴇɴᴄᴊɪ",
+        "lore": "§f §fTen kamień użyjesz u ꜱᴢᴀᴍᴀɴᴀ§f,;§f §fdzięki niemu możesz ulepszyć;§f §f1 z 3 perków kategorii §aɪɴᴛᴇʟɪɢᴇɴᴄᴊᴀ",
+        "unitMode": false,
+        "material": "paper",
+        "enchants": "",
+        "maxPrice": 43310.0,
+        "sellPrice": 61610.0,
+        "customModelData": 1301,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lᴋᴀᴍɪᴇń §c§lꜱɪᴌʏ",
+        "lore": "§f §fTen kamień użyjesz u ꜱᴢᴀᴍᴀɴᴀ§f,;§f §fdzięki niemu możesz ulepszyć;§f §f1 z 3 perków kategorii §cꜱɪᴌᴀ",
+        "unitMode": false,
+        "material": "paper",
+        "enchants": "",
+        "maxPrice": 46860.0,
+        "sellPrice": 66660.0,
+        "customModelData": 1303,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lᴋᴀᴍɪᴇń §e§lᴢʀęᴄᴢɴᴏśᴄɪ",
+        "lore": "§f §fTen kamień użyjesz u ꜱᴢᴀᴍᴀɴᴀ§f,;§f §fdzięki niemu możesz ulepszyć;§f §f1 z 3 perków kategorii §eᴢʀęᴄᴢɴᴏść",
+        "unitMode": false,
+        "material": "paper",
+        "enchants": "",
+        "maxPrice": 63899.0,
+        "sellPrice": 90899.0,
+        "customModelData": 1302,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lꜱᴍᴏᴄᴢʏ ᴏᴅᴌᴀᴍᴇᴋ",
+        "lore": "§f §fPrzedmiot możesz wykorzystać u §aNPC §fna spawn;§f §aZakupisz na §2www.minestar.gg",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 10
+        },
+        "material": "prismarine_shard",
+        "enchants": "unbreaking 10",
+        "maxPrice": 1065.0,
+        "sellPrice": 1515.0,
+        "customModelData": 1001,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lᴋʟᴜᴄᴢ ᴅᴏ ꜱᴋʀᴢʏɴɪ §b§lᴍɪɴᴇʙᴏx",
+        "lore": "§f §2Skrzynke §7mozesz otworzyc;§f §a/otworzskrzynie minebox",
+        "unitMode": false,
+        "material": "tripwire_hook",
+        "enchants": "",
+        "maxPrice": 2698.0,
+        "sellPrice": 3838.0,
+        "customModelData": 1001,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lᴋʟᴜᴄᴢ ᴅᴏ ꜱᴋʀᴢʏɴɪ §lᴇᴘɪᴄʙᴏx",
+        "lore": "§f §2Skrzynke §7mozesz otworzyc;§f §a/otworzskrzynie epicbox;§f §aZakupisz na §2www.minestar.gg",
+        "unitMode": false,
+        "material": "tripwire_hook",
+        "enchants": "",
+        "maxPrice": 4970.0,
+        "sellPrice": 7070.0,
+        "customModelData": 1002,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lᴋʟᴜᴄᴢ ᴅᴏ ꜱᴋʀᴢʏɴɪ §d§lꜱᴛᴀʀʙᴏx",
+        "lore": "§f §2Skrzynke §7mozesz otworzyc;§f §a/otworzskrzynie starbox;§f §aZakupisz na §2www.minestar.gg",
+        "unitMode": false,
+        "material": "tripwire_hook",
+        "enchants": "",
+        "maxPrice": 23430.0,
+        "sellPrice": 33330.0,
+        "customModelData": 1003,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§f§lʟᴜᴄᴋʏʙʟᴏᴄᴋ",
+        "lore": "§f §fPostaw na ziemi, a wypadnie §4wartosciowy item§7!;§f §aZakupisz na §2www.minestar.gg",
+        "unitMode": false,
+        "material": "sponge",
+        "enchants": "",
+        "maxPrice": 191700.0,
+        "sellPrice": 272700.0,
+        "customModelData": 1,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴍ§lɪ§lᴇ§lᴄ§lᴢ§l §lᴀ§lʀ§lᴇ§lꜱ§lᴀ§l §6★§6§l11",
+        "lore": "[🛡] Niezniszczalność 22;[🪓] Ostrość 23",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 22,
+          "sharpness": 23
+        },
+        "material": "netherite_sword",
+        "enchants": "unbreaking 22, sharpness 23",
+        "maxPrice": 568.0,
+        "sellPrice": 808.0,
+        "customModelData": 11010,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴍ§lɪ§lᴇ§lᴄ§lᴢ§l §lᴋ§lʀ§lᴀ§lᴛ§lᴏ§lꜱ§lᴀ§l §6★§6§l12",
+        "lore": "[🛡] Niezniszczalność 24;[🪓] Ostrość 25",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 24,
+          "sharpness": 25
+        },
+        "material": "netherite_sword",
+        "enchants": "unbreaking 24, sharpness 25",
+        "maxPrice": 426.0,
+        "sellPrice": 606.0,
+        "customModelData": 11011,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴍ§lɪ§lᴇ§lᴄ§lᴢ§l §lᴘ§lᴏ§lꜱ§lᴇ§lᴊ§lᴅ§lᴏ§lɴ§lᴀ§l §6★§6§l13",
+        "lore": "[🛡] Niezniszczalność 26;[🪓] Ostrość 27",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 26,
+          "sharpness": 27
+        },
+        "material": "netherite_sword",
+        "enchants": "unbreaking 26, sharpness 27",
+        "maxPrice": 9940.0,
+        "sellPrice": 14140.0,
+        "customModelData": 11012,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴍ§lɪ§lᴇ§lᴄ§lᴢ§l §lʜ§lᴀ§lᴅ§lᴇ§lꜱ§lᴀ§l §6★§6§l14",
+        "lore": "[🛡] Niezniszczalność 28;[🪓] Ostrość 29",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 28,
+          "sharpness": 29
+        },
+        "material": "netherite_sword",
+        "enchants": "unbreaking 28, sharpness 29",
+        "maxPrice": 34074.0,
+        "sellPrice": 48472.0,
+        "customModelData": 11013,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴍ§lɪ§lᴇ§lᴄ§lᴢ§l §lᴢ§lᴇ§lᴜ§lꜱ§lᴀ§l §6★§6§l15",
+        "lore": "[🛡] Niezniszczalność 30;[🪓] Ostrość 31",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 30,
+          "sharpness": 31
+        },
+        "material": "netherite_sword",
+        "enchants": "unbreaking 30, sharpness 31",
+        "maxPrice": 58220.0,
+        "sellPrice": 82820.0,
+        "customModelData": 11014,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴍ§lɪ§lᴇ§lᴄ§lᴢ§l §lᴀ§lʀ§lᴛ§lᴇ§lᴍ§lɪ§lᴅ§lʏ§l §6★§6§l16",
+        "lore": "[🛡] Niezniszczalność 32;[🪓] Ostrość 33",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 32,
+          "sharpness": 33
+        },
+        "material": "netherite_sword",
+        "enchants": "unbreaking 32, sharpness 33",
+        "maxPrice": 81650.0,
+        "sellPrice": 116150.0,
+        "customModelData": 11015,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lᴍ§lɪ§lᴇ§lᴄ§lᴢ§l §lꜱ§lᴀ§lᴛ§lʏ§lʀ§lᴀ§l §6★§6§l17",
+        "lore": "[🛡] Niezniszczalność 34;[🪓] Ostrość 35",
+        "unitMode": false,
+        "enchantments": {
+          "unbreaking": 34,
+          "sharpness": 35
+        },
+        "material": "netherite_sword",
+        "enchants": "unbreaking 34, sharpness 35",
+        "maxPrice": 284000.0,
+        "sellPrice": 404000.0,
+        "customModelData": 11016,
+        "buyEnabled": true,
+        "sellEnabled": false,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lᴋ§lʀ§lᴀ§lᴛ§lᴏ§lꜱ§lᴀ§l §6★§6§l12",
+        "lore": "[🛡] Niezniszczalność 24;[❤] Ochrona 24",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTczODQwMDAzMTM3OCwKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2YxYzA4ODUzMDUwODQ3M2QwMjdiNDI4ZGMwZGNjMTA5ZWQ1OWVhNzgxNzhjMGY1YmIyYmJjMmVhZWFkYTRjOCIKICAgIH0KICB9Cn0\u003d",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 1420.0,
+        "sellPrice": 2020.0,
+        "customModelData": 10012,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lᴋ§lʀ§lᴀ§lᴛ§lᴏ§lꜱ§lᴀ§l §6★§6§l12",
+        "lore": "[🛡] Niezniszczalność 24;[❤] Ochrona 24",
+        "unitMode": false,
+        "dyeColor": 13259610,
+        "enchantments": {
+          "unbreaking": 24,
+          "protection": 24
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 24, protection 24",
+        "maxPrice": 426.0,
+        "sellPrice": 606.0,
+        "customModelData": 10012,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lᴋ§lʀ§lᴀ§lᴛ§lᴏ§lꜱ§lᴀ§l §6★§6§l12",
+        "lore": "[🛡] Niezniszczalność 24;[❤] Ochrona 24",
+        "unitMode": false,
+        "dyeColor": 13259610,
+        "enchantments": {
+          "unbreaking": 24,
+          "protection": 24
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 24, protection 24",
+        "maxPrice": 426.0,
+        "sellPrice": 606.0,
+        "customModelData": 10012,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lᴋ§lʀ§lᴀ§lᴛ§lᴏ§lꜱ§lᴀ§l §6★§6§l12",
+        "lore": "[🛡] Niezniszczalność 24;[❤] Ochrona 24",
+        "unitMode": false,
+        "dyeColor": 13259610,
+        "enchantments": {
+          "unbreaking": 24,
+          "protection": 24
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 24, protection 24",
+        "maxPrice": 1420.0,
+        "sellPrice": 2020.0,
+        "customModelData": 10012,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lᴘ§lᴏ§lꜱ§lᴇ§lᴊ§lᴅ§lᴏ§lɴ§lᴀ§l §6★§6§l13",
+        "lore": "[❤] Ochrona 26;[🛡] Niezniszczalność 26",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTcwOTAwMjI2NSwKICAicHJvZmlsZUlkIiA6ICI3NzI3ZDM1NjY5Zjk0MTUxODAyM2Q2MmM2ODE3NTkxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWJyYXJ5ZnJlYWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU2Zjc2MWZiNjIwODg4OTcyOWEyOTY0ZGE3ZjBmOGZhYmFkZmY3ZDI2NzNlZGZiZmQ4ODg0MmExYzAzYmMzMSIKICAgIH0KICB9Cn0\u003d",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 3905.0,
+        "sellPrice": 5555.0,
+        "customModelData": 10013,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lᴘ§lᴏ§lꜱ§lᴇ§lᴊ§lᴅ§lᴏ§lɴ§lᴀ§l §6★§6§l13",
+        "lore": "[🛡] Niezniszczalność 26;[❤] Ochrona 26",
+        "unitMode": false,
+        "dyeColor": 2664379,
+        "enchantments": {
+          "unbreaking": 26,
+          "protection": 26
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 26, protection 26",
+        "maxPrice": 5325.0,
+        "sellPrice": 7575.0,
+        "customModelData": 10013,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lᴘ§lᴏ§lꜱ§lᴇ§lᴊ§lᴅ§lᴏ§lɴ§lᴀ§l §6★§6§l13",
+        "lore": "[❤] Ochrona 26;[🛡] Niezniszczalność 26",
+        "unitMode": false,
+        "dyeColor": 2664379,
+        "enchantments": {
+          "unbreaking": 26,
+          "protection": 26
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 26, protection 26",
+        "maxPrice": 3550.0,
+        "sellPrice": 5050.0,
+        "customModelData": 10013,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lᴘ§lᴏ§lꜱ§lᴇ§lᴊ§lᴅ§lᴏ§lɴ§lᴀ§l §6★§6§l13",
+        "lore": "[🛡] Niezniszczalność 26;[❤] Ochrona 26",
+        "unitMode": false,
+        "dyeColor": 2664379,
+        "enchantments": {
+          "unbreaking": 26,
+          "protection": 26
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 26, protection 26",
+        "maxPrice": 7810.0,
+        "sellPrice": 11110.0,
+        "customModelData": 10013,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lʜ§lᴀ§lᴅ§lᴇ§lꜱ§lᴀ§l §6★§6§l14",
+        "lore": "[🛡] Niezniszczalność 28;[❤] Ochrona 28",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTY3NjA1NzY4NTQ2NiwKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NGNjMDY3MTczMDg1YzRjMWZjNTkwMDFkMzEzOWQ0ZTNkYzIwMjc5MTY0OTg0NGYxYTEyOGFhNTMwZWQ1YzdjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 497.0,
+        "sellPrice": 707.0,
+        "customModelData": 10014,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lʜ§lᴀ§lᴅ§lᴇ§lꜱ§lᴀ§l §6★§6§l14",
+        "lore": "[🛡] Niezniszczalność 28;[❤] Ochrona 28",
+        "unitMode": false,
+        "dyeColor": 16422437,
+        "enchantments": {
+          "unbreaking": 28,
+          "protection": 28
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 28, protection 28",
+        "maxPrice": 14200.0,
+        "sellPrice": 20200.0,
+        "customModelData": 10014,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lʜ§lᴀ§lᴅ§lᴇ§lꜱ§lᴀ§l §6★§6§l14",
+        "lore": "[🛡] Niezniszczalność 28;[❤] Ochrona 28",
+        "unitMode": false,
+        "dyeColor": 16422437,
+        "enchantments": {
+          "unbreaking": 28,
+          "protection": 28
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 28, protection 28",
+        "maxPrice": 14058.0,
+        "sellPrice": 19998.0,
+        "customModelData": 10014,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lʜ§lᴀ§lᴅ§lᴇ§lꜱ§lᴀ§l §6★§6§l14",
+        "lore": "[🛡] Niezniszczalność 28;[❤] Ochrona 28",
+        "unitMode": false,
+        "dyeColor": 16422437,
+        "enchantments": {
+          "unbreaking": 28,
+          "protection": 28
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 28, protection 28",
+        "maxPrice": 14200.0,
+        "sellPrice": 20200.0,
+        "customModelData": 10014,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lᴀ§lʀ§lᴛ§lᴇ§lᴍ§lɪ§lᴅ§lʏ§l §6★§6§l16",
+        "lore": "[🛡] Niezniszczalność 32;[❤] Ochrona 32",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODMyMTMxOTk4NywKICAicHJvZmlsZUlkIiA6ICI0NTlhYTA1MmYxMTI0ZmFjYWQ3Y2Y4YjUwM2I2NzJiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIdXpoYW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk2OWE4ZGJjZmM5NGZlNjRiNDMzODEyOTc3MDU0OTA5ZDkxNGNhODgyOWY1MjY5NmZlODg4ZDY5OTMwMTQzNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 49700.0,
+        "sellPrice": 70700.0,
+        "customModelData": 10016,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lᴀ§lʀ§lᴛ§lᴇ§lᴍ§lɪ§lᴅ§lʏ§l §6★§6§l16",
+        "lore": "[🛡] Niezniszczalność 32;[❤] Ochrona 32",
+        "unitMode": false,
+        "dyeColor": 7699384,
+        "enchantments": {
+          "unbreaking": 32,
+          "protection": 32
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 32, protection 32",
+        "maxPrice": 42600.0,
+        "sellPrice": 60600.0,
+        "customModelData": 10016,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lᴀ§lʀ§lᴛ§lᴇ§lᴍ§lɪ§lᴅ§lʏ§l §6★§6§l16",
+        "lore": "[🛡] Niezniszczalność 32;[❤] Ochrona 32",
+        "unitMode": false,
+        "dyeColor": 7699384,
+        "enchantments": {
+          "unbreaking": 32,
+          "protection": 32
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 32, protection 32",
+        "maxPrice": 49700.0,
+        "sellPrice": 70700.0,
+        "customModelData": 10016,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lᴀ§lʀ§lᴛ§lᴇ§lᴍ§lɪ§lᴅ§lʏ§l §6★§6§l16",
+        "lore": "[🛡] Niezniszczalność 32;[❤] Ochrona 32",
+        "unitMode": false,
+        "dyeColor": 7699384,
+        "enchantments": {
+          "unbreaking": 32,
+          "protection": 32
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 32, protection 32",
+        "maxPrice": 49698.0,
+        "sellPrice": 70697.0,
+        "customModelData": 10016,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lᴀ§lʀ§lᴇ§lꜱ§lᴀ§l §6★§6§l11",
+        "lore": "[🛡] Niezniszczalność 22;[❤] Ochrona 22",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTg4MDIzNDE0NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VjNzIzZjE5M2ZhNmY5NDFkMTkwMmY5ODYyM2U5ODEwNzk4MDk3ZWQyOGZlYjQxODVjNThkNWM5MGRkMjU3NSIKICAgIH0KICB9Cn0\u003d",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 639.0,
+        "sellPrice": 909.0,
+        "customModelData": 10011,
+        "buyEnabled": false,
+        "sellEnabled": false,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lᴀ§lʀ§lᴇ§lꜱ§lᴀ§l §6★§6§l11",
+        "lore": "[❤] Ochrona 22;[🛡] Niezniszczalność 22",
+        "unitMode": false,
+        "dyeColor": 15379767,
+        "enchantments": {
+          "unbreaking": 22,
+          "protection": 22
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 22, protection 22",
+        "maxPrice": 639.0,
+        "sellPrice": 909.0,
+        "customModelData": 10011,
+        "buyEnabled": false,
+        "sellEnabled": false,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lᴀ§lʀ§lᴇ§lꜱ§lᴀ§l §6★§6§l11",
+        "lore": "[❤] Ochrona 22;[🛡] Niezniszczalność 22",
+        "unitMode": false,
+        "dyeColor": 15379767,
+        "enchantments": {
+          "unbreaking": 22,
+          "protection": 22
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 22, protection 22",
+        "maxPrice": 39050.0,
+        "sellPrice": 55550.0,
+        "customModelData": 10011,
+        "buyEnabled": false,
+        "sellEnabled": false,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lᴀ§lʀ§lᴇ§lꜱ§lᴀ§l §6★§6§l11",
+        "lore": "[🛡] Niezniszczalność 22;[❤] Ochrona 22",
+        "unitMode": false,
+        "dyeColor": 15379767,
+        "enchantments": {
+          "unbreaking": 22,
+          "protection": 22
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 22, protection 22",
+        "maxPrice": 2122.0,
+        "sellPrice": 3019.0,
+        "customModelData": 10011,
+        "buyEnabled": false,
+        "sellEnabled": false,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lᴢ§lᴇ§lᴜ§lꜱ§lᴀ§l §6★§6§l15",
+        "lore": "[❤] Ochrona 30;[🛡] Niezniszczalność 30;§8× Poziom seta§8: §f15",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYyMzA3ODUwNDUzNSwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMzI0ZGU2MjE5ODI1MjBkOTk3YWNiNjBjYTAxYTgyNjQxMWJmZTE4OTIyOGZkOTdhZGM2ZDI4MGJjMzZhNDgiCiAgICB9CiAgfQp9",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10015,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lᴢ§lᴇ§lᴜ§lꜱ§lᴀ§l §6★§6§l15",
+        "lore": "[❤] Ochrona 30;[🛡] Niezniszczalność 30;§8× Poziom seta§8: §f15",
+        "unitMode": false,
+        "dyeColor": 16633145,
+        "enchantments": {
+          "unbreaking": 30,
+          "protection": 30
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 30, protection 30",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10015,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lᴢ§lᴇ§lᴜ§lꜱ§lᴀ§l §6★§6§l15",
+        "lore": "[❤] Ochrona 30;[🛡] Niezniszczalność 30;§8× Poziom seta§8: §f15",
+        "unitMode": false,
+        "dyeColor": 16633145,
+        "enchantments": {
+          "unbreaking": 30,
+          "protection": 30
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 30, protection 30",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10015,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lᴢ§lᴇ§lᴜ§lꜱ§lᴀ§l §6★§6§l15",
+        "lore": "[❤] Ochrona 30;[🛡] Niezniszczalność 30;§8× Poziom seta§8: §f15",
+        "unitMode": false,
+        "dyeColor": 16633145,
+        "enchantments": {
+          "unbreaking": 30,
+          "protection": 30
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 30, protection 30",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10015,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lꜱ§lᴀ§lᴛ§lʏ§lʀ§lᴀ§l §6★§6§l17",
+        "lore": "[❤] Ochrona 34;[🛡] Niezniszczalność 34;§8× Poziom seta§8: §f17",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYzMzM5NzU3NDk0MiwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNmM0MTIyODIxOGFkMDZjNWFhOTdiZWExM2Q2YWRhZmU5YzAxMWQ5NmU2NWEyNWZhYjRhNmFjOTA3ZjdkMjgyIgogICAgfQogIH0KfQ\u003d\u003d",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10017,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lꜱ§lᴀ§lᴛ§lʏ§lʀ§lᴀ§l §6★§6§l17",
+        "lore": "[❤] Ochrona 34;[🛡] Niezniszczalność 34;§8× Poziom seta§8: §f17",
+        "unitMode": false,
+        "dyeColor": 9156175,
+        "enchantments": {
+          "unbreaking": 34,
+          "protection": 34
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 34, protection 34",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10017,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lꜱ§lᴀ§lᴛ§lʏ§lʀ§lᴀ§l §6★§6§l17",
+        "lore": "[❤] Ochrona 34;[🛡] Niezniszczalność 34;§8× Poziom seta§8: §f17",
+        "unitMode": false,
+        "dyeColor": 9156175,
+        "enchantments": {
+          "unbreaking": 34,
+          "protection": 34
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 34, protection 34",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10017,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lꜱ§lᴀ§lᴛ§lʏ§lʀ§lᴀ§l §6★§6§l17",
+        "lore": "[❤] Ochrona 34;[🛡] Niezniszczalność 34;§8× Poziom seta§8: §f17",
+        "unitMode": false,
+        "dyeColor": 9156175,
+        "enchantments": {
+          "unbreaking": 34,
+          "protection": 34
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 34, protection 34",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10017,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɢ§lᴌ§lᴏ§lᴡ§lᴀ§l §lꜰ§lᴇ§lɴ§lɪ§lᴋ§lꜱ§lᴀ§l §6★§6§l18",
+        "lore": "[❤] Ochrona 36;[🛡] Niezniszczalność 36;§8× Poziom seta§8: §f18",
+        "unitMode": false,
+        "headTextureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYxNTg4MjkyMTE3NSwKICAicHJvZmlsZUlkIiA6ICJjOTAzOGQzZjRiMTg0M2JiYjUwNTU5ZGE3MWFjMTk2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQk5SY29vbGNhdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYjMxMWI5NDdlOTU0MGE3YmNhZWM3MjVjOTFiYjIzYTQ3NGViZGYwMDQ2NDBkMTVkMjBiMDI0OGYwODg1ZDNhIgogICAgfQogIH0KfQ\u003d\u003d",
+        "material": "player_head",
+        "enchants": "",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10018,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lɴ§lᴀ§lᴘ§lɪ§lᴇ§lʀ§lś§lɴ§lɪ§lᴋ§l §lꜰ§lᴇ§lɴ§lɪ§lᴋ§lꜱ§lᴀ§l §6★§6§l18",
+        "lore": "[❤] Ochrona 36;[🛡] Niezniszczalność 36;§8× Poziom seta§8: §f18",
+        "unitMode": false,
+        "dyeColor": 14705696,
+        "enchantments": {
+          "unbreaking": 36,
+          "protection": 36
+        },
+        "material": "leather_chestplate",
+        "enchants": "unbreaking 36, protection 36",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10018,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§ls§lᴘ§lᴏ§lᴅ§lɴ§lɪ§lᴇ§l §lꜰ§lᴇ§lɴ§lɪ§lᴋ§lꜱ§lᴀ§l §6★§6§l18",
+        "lore": "[❤] Ochrona 36;[🛡] Niezniszczalność 36;§8× Poziom seta§8: §f18",
+        "unitMode": false,
+        "dyeColor": 14705696,
+        "enchantments": {
+          "unbreaking": 36,
+          "protection": 36
+        },
+        "material": "leather_leggings",
+        "enchants": "unbreaking 36, protection 36",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10018,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      },
+      {
+        "name": "§lʙ§lᴜ§lᴛ§lʏ§l §lꜰ§lᴇ§lɴ§lɪ§lᴋ§lꜱ§lᴀ§l §6★§6§l18",
+        "lore": "[❤] Ochrona 36;[🛡] Niezniszczalność 36;§8× Poziom seta§8: §f18",
+        "unitMode": false,
+        "dyeColor": 14705696,
+        "enchantments": {
+          "unbreaking": 36,
+          "protection": 36
+        },
+        "material": "leather_boots",
+        "enchants": "unbreaking 36, protection 36",
+        "maxPrice": 90.0,
+        "sellPrice": 90.0,
+        "customModelData": 10018,
+        "buyEnabled": true,
+        "sellEnabled": true,
+        "minBuyCount": 1,
+        "minSellCount": 1
+      }
+    ],
+    "modules.settings.auto_market.reconnect_delay": 5,
+    "modules.settings.auto_market.auto_reconnect": true,
+    "modules.settings.auto_market.highlight_mode": "Border",
+    "modules.settings.auto_market.cheap_color": {
+      "r": 128,
+      "g": 255,
+      "b": 0,
+      "a": 204
+    },
+    "modules.settings.auto_market.expensive_color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 200
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gui.open": {
+    "sounds": [
+      "bkrynek:gui/open"
+    ]
+  },
+  "gui.close": {
+    "sounds": [
+      "bkrynek:gui/close"
+    ]
+  },
+  "gui.click": {
+    "sounds": [
+      "bkrynek:gui/click"
+    ]
+  },
+  "gui.on": {
+    "sounds": [
+      "bkrynek:gui/on"
+    ]
+  },
+  "gui.off": {
+    "sounds": [
+      "bkrynek:gui/off"
+    ]
+  },
+  "gui.success": {
+    "sounds": [
+      "bkrynek:gui/success"
+    ]
+  },
+  "gui.expand": {
+    "sounds": [
+      "bkrynek:gui/expand"
+    ]
+  },
+  "gui.tick": {
+    "sounds": [
+      "bkrynek:gui/tick"
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+    "mod.info": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Mod BK-Rynek by bkubiak.dev",
+        "&8- &fJoin our discord&8: &2https://dc.bkubiak.dev",
+        "&8- &fMy GitHub&8: &2https://github.com/xqbkubiak",
+        "&8- &fSupport me&8: &2https://tipply.pl/@rajzeh",
+        " ",
+        " &6| &eConfig has been generated at:",
+        " &6| &e.minecraft/config/BK-Mods/BK-Rynek/&6bkrynek-config.json",
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Commands at &f/bkr help",
+        " "
+    ],
+    "command.afk.enabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7AFK mode has been &aenabled&7!",
+        " "
+    ],
+    "command.afk.disabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7AFK mode has been &cdisabled&7!",
+        " "
+    ],
+    "command.profiles.list": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Available profiles:"
+    ],
+    "command.profile.change": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Active profile changed to: &f%profile%",
+        " "
+    ],
+    "command.add.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Added &f%item% &7with max price &a%price% &7to profile &f%profile%",
+        " "
+    ],
+    "command.remove.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Removed &f%item% &7from profile &f%profile%",
+        " "
+    ],
+    "command.list": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Items for profile &f%profile%:"
+    ],
+    "command.help": [
+        "&8[&2B&aK &fRynek&8] &7Mod BK-Rynek by bkubiak.dev",
+        "&8- &fSupport me&8: &2https://tipply.pl/@rajzeh",
+        "&8- &fJoin discord&8: &2https://dc.bkubiak.dev",
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Available commands:",
+        "&8- &f/bkr &8- &7Mod info",
+        "&8- &f/bkr profiles &8- &7Shows profiles",
+        "&8- &f/bkr list &8- &7Shows items",
+        "&8- &f/bkr sounds &8- &7Toggle sounds",
+        "&8- &f/bkr help &8- &7Command list",
+        "&8- &f/bkr config reload &8- &7Reloads config",
+        "&8- &f/bkr autorepair &8- &7Automatic repair before listing",
+        "&8- &f/bkr gui &8- &7Opens control panel",
+        "&8- &f/bkr setup &8- &7Configure market buttons",
+        "&8- &f/bkr webhook <url> &8- &7Discord notifications",
+        "&8- &f/bkr lang <pl|en> &8- &7Change language",
+        " ",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aA &8- &7Add item under cursor",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aS &8- &7Set market buttons (setup mode)",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aR &8- &7Manage highlighting",
+        "&8[&2B&aK &fRynek&8] &aCtrl &f+ &aH &8- &7Toggle bot automation",
+        "&8[&2B&aK &fRynek&8] &a/bkr afk &8- &7Toggle Anti-AFK mode",
+        " "
+    ],
+    "player.join": [
+        "&8[&2B&aK &fRynek&8] &fBK-Rynek started &asuccessfully!",
+        "&8» &7Discord: &adc.bkubiak.dev",
+        "&8» &7Commands: &a/bkr help",
+        "&8» &7GUI: &a/bkr gui"
+    ],
+    "pricelist.no_data": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cNo data for profile &f%profile%",
+        " "
+    ],
+    "pricelist.no_items": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cNo items in profile &f%profile%",
+        " "
+    ],
+    "pricelist.icon.edit": [
+        "&8[&eEdit&8]"
+    ],
+    "pricelist.icon.remove": [
+        "&8[&cRemove&8]"
+    ],
+    "pricelist.item_line": [
+        "&8- &f%item%&8: &a%price%"
+    ],
+    "profile.set": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Set profile to: &f%profile%",
+        " "
+    ],
+    "command.profiles.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Available profiles:"
+    ],
+    "profile.available.line": [
+        "&7- &f%profile% &8[&eClick to change&8]"
+    ],
+    "profile.picked.line": [
+        "&7- &a%profile% &8[&2Selected&8]"
+    ],
+    "command.list.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Items for profile &f%profile%:"
+    ],
+    "command.config.save.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aConfig has been saved.",
+        " "
+    ],
+    "command.config.reload.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aConfig has been reloaded.",
+        " "
+    ],
+    "command.scanner.toggle.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Highlighting &aenabled&7.",
+        " "
+    ],
+    "command.scanner.toggle.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Highlighting &cdisabled&7.",
+        " "
+    ],
+    "command.automation.toggle.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Bot automation &aenabled&7.",
+        " "
+    ],
+    "command.automation.toggle.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Bot automation &cdisabled&7.",
+        " "
+    ],
+    "command.sounds.current_on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Sound notifications are &aenabled&7.",
+        " "
+    ],
+    "command.sounds.current_off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Sound notifications are &cdisabled&7.",
+        " "
+    ],
+    "command.sounds.enabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Sound notifications have been &aenabled&7.",
+        " "
+    ],
+    "command.sounds.disabled": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Sound notifications have been &cdisabled&7.",
+        " "
+    ],
+    "command.searchlist.list.empty": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Search list is &cempty&7.",
+        " "
+    ],
+    "command.searchlist.add": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Added &a'%item%' &7to search list.",
+        " "
+    ],
+    "command.searchlist.remove": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Removed &c'%item%' &7from search list.",
+        " "
+    ],
+    "command.searchlist.start": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aStarted &7counting &fdisplayed &7items",
+        "&8- &7Open &fmarket &7and scroll through pages, I will do the rest.",
+        "&8- &7When finished, type &f/bkr search stop &7to see statistics.",
+        " ",
+        "&6| &eI will auto-stop after 5 minutes.",
+        " "
+    ],
+    "command.searchlist.stop.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aFinished &7counting displayed items",
+        "&8[&2B&aK &fRynek&8] &7Here is what I found:"
+    ],
+    "command.searchlist.stop.pages": [
+        "&8[&2B&aK &fRynek&8] &7Pages checked: &f%pages%"
+    ],
+    "command.searchlist.stop.reason.limit": [
+        "&8[&2B&aK &fRynek&8] &7Reason: &fpage limit reached"
+    ],
+    "command.searchlist.stop.reason.no_next": [
+        "&8[&2B&aK &fRynek&8] &7Reason: &fno next page"
+    ],
+    "command.searchlist.stop.reason.no_gui": [
+        "&8[&2B&aK &fRynek&8] &7Reason: &fcould not open market"
+    ],
+    "command.searchlist.stop.reason.manual": [
+        "&8[&2B&aK &fRynek&8] &7Reason: &fmanual stop"
+    ],
+    "command.searchlist.stop.line": [
+        "&8- &f%item%&8(&a%count%&8):",
+        "   &fmin: &a%min%&7, &fmax: &2%max%&7, &favg: &e%avg%",
+        "   &fmedian: &d%median%&7, &fQ1: &2%quartile1%&7, &fQ3: &a%quartile3%"
+    ],
+    "command.searchlist.list.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Search list items:"
+    ],
+    "command.searchlist.list.line": [
+        "&8- &f%item%"
+    ],
+    "command.searchlist.list.remove.hover": [
+        "Click to remove this item"
+    ],
+    "command.searchlist.expired": [
+        "Search time expired."
+    ],
+    "command.lang.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Language has been changed to: &a%lang%",
+        " "
+    ],
+    "gui.hud.prefix": [
+        "&8[&2B&aK &fRynek&8] "
+    ],
+    "gui.hud.status": [
+        "&fStatus: "
+    ],
+    "gui.hud.active": [
+        "&aACTIVE"
+    ],
+    "gui.hud.inactive": [
+        "&cINACTIVE"
+    ],
+    "automation.search.notfound": [
+        "&8[&2B&aK &fRynek&8] &cItem not found: &e%s&c!"
+    ],
+    "setup.prefix": [
+        "&8[&2B&aK &fRynek&8] "
+    ],
+    "setup.step1": [
+        "&e[STEP 1] &fHover over the &aREFRESH&f button and press &6Ctrl+S"
+    ],
+    "setup.step2": [
+        "&e[STEP 2] &fHover over the &dCONFIRM&f button and press &6Ctrl+S"
+    ],
+    "setup.step3": [
+        "&e[STEP 3] &fHover over the &bNEXT PAGE&f button and press &6Ctrl+S"
+    ],
+    "setup.error.no_config": [
+        "&c[ERROR] &fNo configuration found for this server!"
+    ],
+    "setup.ok.refresh": [
+        "&a[OK] &fSet &aREFRESH&f button to slot: &e%slot%"
+    ],
+    "setup.ok.confirm": [
+        "&a[OK] &fSet &dCONFIRM&f button to slot: &e%slot%"
+    ],
+    "setup.ok.next_page": [
+        "&a[OK] &fSet &bNEXT PAGE&f button to slot: &e%slot%"
+    ],
+    "setup.complete": [
+        "&2[SUCCESS] &fSetup complete! Data has been saved."
+    ],
+    "setup.info.not_set": [
+        "&cNot set"
+    ],
+    "setup.info.title": [
+        "&6[INFO] &fConfiguration for: &e%address%"
+    ],
+    "setup.info.refresh": [
+        "&f- Refresh Slot: &b%value%"
+    ],
+    "setup.info.confirm": [
+        "&f- Confirm Slot: &b%value%"
+    ],
+    "setup.info.next": [
+        "&f- Next Page Slot: &b%value%"
+    ],
+    "setup.cancelled": [
+        "&c[SETUP] &fSetup mode cancelled."
+    ],
+    "gui.status.active": [
+        "ACTIVE"
+    ],
+    "gui.status.inactive": [
+        "INACTIVE"
+    ],
+    "gui.profile": [
+        "Profile"
+    ],
+    "gui.table.name": [
+        "Name"
+    ],
+    "gui.table.max_price": [
+        "Max price"
+    ],
+    "gui.no_items": [
+        "No items on the list..."
+    ],
+    "gui.hint.ctrl_a": [
+        "Ctrl+A = Add item to list"
+    ],
+    "gui.hint.click_row": [
+        "Click row to edit price"
+    ],
+    "gui.btn.add": [
+        "Add"
+    ],
+    "gui.btn.cancel": [
+        "Cancel"
+    ],
+    "gui.quick_add": [
+        "Quick Add"
+    ],
+    "gui.lore_none": [
+        "None"
+    ],
+    "gui.lore": [
+        "Lore"
+    ],
+    "gui.enter_max_price": [
+        "Enter maximum price:"
+    ],
+    "command.webhook.success": [
+        "&8[&2B&aK &fRynek&8] &aWebhook has been set!"
+    ],
+    "command.profile.change.tooltip": [
+        "Click to change profile to %profile%"
+    ],
+    "automation.start": [
+        "&2Mode started: &e%mode%"
+    ],
+    "automation.start_hint": [
+        "&7Type &f/ah&7 to begin."
+    ],
+    "automation.stop": [
+        "&cAutomation stopped."
+    ],
+    "automation.confirm.timeout": [
+        "&eNo chat confirmation. Continuing..."
+    ],
+    "automation.buy.timeout": [
+        "&cPurchase timed out. Resetting..."
+    ],
+    "automation.buy.finished": [
+        "&aFinished buying. Restarting..."
+    ],
+    "automation.buy.confirming": [
+        "&aConfirming purchase..."
+    ],
+    "automation.chat.skip": [
+        "&aSkipping chat wait. Continuing..."
+    ],
+    "automation.chat.waiting": [
+        "&7Waiting for chat confirmation..."
+    ],
+    "automation.pages.end": [
+        "&eEnd of pages. Back to start."
+    ],
+    "automation.market.restarting": [
+        "&eRestarting market..."
+    ],
+    "automation.item.found": [
+        "&6Item found! Buying..."
+    ],
+    "automation.webhook.success_confirmed": [
+        "&a[WEBHOOK] &fPurchase success confirmed! Sending notification."
+    ],
+    "automation.item.sold": [
+        "&eItem already sold. Searching..."
+    ],
+    "automation.error.no_money": [
+        "No funds! Stopping bot."
+    ],
+    "automation.error.no_money_item": [
+        "Insufficient funds!"
+    ],
+    "automation.sending": [
+        "&7Sending: &f/%command%"
+    ],
+    "command.preset.save.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aSaved preset &f%preset% &afor profile &f%profile%",
+        " "
+    ],
+    "command.preset.save.empty": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cCannot save preset - item list is empty!",
+        " "
+    ],
+    "command.preset.load.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aLoaded preset &f%preset% &afor profile &f%profile%",
+        " "
+    ],
+    "command.preset.load.notfound": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cPreset &f%preset%&c not found!",
+        " "
+    ],
+    "command.preset.load.tooltip": [
+        "Click to load preset %preset%"
+    ],
+    "command.preset.list.header": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Presets for profile &f%profile%:"
+    ],
+    "command.preset.list.empty": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cNo presets for profile &f%profile%",
+        "&8[&2B&aK &fRynek&8] &7Use &f/bkr preset save <name> &7to save the current item set",
+        " "
+    ],
+    "command.preset.list.active": [
+        "&7- &a%preset% &8[&2Active&8]"
+    ],
+    "command.preset.list.line": [
+        "&7- &f%preset% &8[&eClick to load&8]"
+    ],
+    "command.preset.delete.success": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &aDeleted preset &f%preset%",
+        " "
+    ],
+    "command.preset.delete.notfound": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &cPreset &f%preset%&c not found!",
+        " "
+    ],
+    "command.autorepair.status": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Auto-Repair is currently %status%",
+        " "
+    ],
+    "command.autorepair.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Auto-Repair has been &aenabled&7!",
+        " "
+    ],
+    "command.autorepair.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Auto-Repair has been &cdisabled&7!",
+        " "
+    ],
+    "command.autorepair.cmd": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Repair command has been set to: &f%command%",
+        " "
+    ],
+    "command.ignorecomponents.on": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Ignore component counts: &aENABLED",
+        " "
+    ],
+    "command.ignorecomponents.off": [
+        " ",
+        "&8[&2B&aK &fRynek&8] &7Ignore component counts: &cDISABLED",
+        " "
+    ]
+}
