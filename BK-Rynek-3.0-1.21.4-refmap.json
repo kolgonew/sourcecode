@@ -1,0 +1,62 @@
+{
+  "mappings": {
+    "pl/bkubiak/bkrynek/client/mixin/HandledScreenAccessor": {
+      "backgroundHeight": "field_2779:I",
+      "backgroundWidth": "field_2792:I",
+      "handler": "field_2797:Lnet/minecraft/class_1703;",
+      "x": "field_2776:I",
+      "y": "field_2800:I"
+    },
+    "pl/bkubiak/bkrynek/client/mixin/HandledScreenMixin": {
+      "keyPressed": "Lnet/minecraft/class_465;method_25404(III)Z",
+      "removed": "Lnet/minecraft/class_465;method_25432()V",
+      "render": "Lnet/minecraft/class_465;method_25394(Lnet/minecraft/class_332;IIF)V"
+    },
+    "pl/bkubiak/bkrynek/client/mixin/InGameHudMixin": {
+      "setSubtitle": "Lnet/minecraft/class_329;method_34002(Lnet/minecraft/class_2561;)V",
+      "setTitle": "Lnet/minecraft/class_329;method_34004(Lnet/minecraft/class_2561;)V"
+    },
+    "pl/bkubiak/bkrynek/client/mixin/KeyboardInputMixin": {
+      "Lnet/minecraft/client/input/KeyboardInput;playerInput:Lnet/minecraft/util/PlayerInput;": "Lnet/minecraft/class_743;field_54155:Lnet/minecraft/class_10185;",
+      "tick": "Lnet/minecraft/class_743;method_3129()V"
+    },
+    "pl/bkubiak/bkrynek/client/mixin/PlayerInventoryAccessor": {
+      "selectedSlot": "field_7545:I"
+    },
+    "pl/bkubiak/bkrynek/client/mixin/ScreenHandlerAccessor": {
+      "revision": "field_34024:I",
+      "slots": "field_7761:Lnet/minecraft/class_2371;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "pl/bkubiak/bkrynek/client/mixin/HandledScreenAccessor": {
+        "backgroundHeight": "field_2779:I",
+        "backgroundWidth": "field_2792:I",
+        "handler": "field_2797:Lnet/minecraft/class_1703;",
+        "x": "field_2776:I",
+        "y": "field_2800:I"
+      },
+      "pl/bkubiak/bkrynek/client/mixin/HandledScreenMixin": {
+        "keyPressed": "Lnet/minecraft/class_465;method_25404(III)Z",
+        "removed": "Lnet/minecraft/class_465;method_25432()V",
+        "render": "Lnet/minecraft/class_465;method_25394(Lnet/minecraft/class_332;IIF)V"
+      },
+      "pl/bkubiak/bkrynek/client/mixin/InGameHudMixin": {
+        "setSubtitle": "Lnet/minecraft/class_329;method_34002(Lnet/minecraft/class_2561;)V",
+        "setTitle": "Lnet/minecraft/class_329;method_34004(Lnet/minecraft/class_2561;)V"
+      },
+      "pl/bkubiak/bkrynek/client/mixin/KeyboardInputMixin": {
+        "Lnet/minecraft/client/input/KeyboardInput;playerInput:Lnet/minecraft/util/PlayerInput;": "Lnet/minecraft/class_743;field_54155:Lnet/minecraft/class_10185;",
+        "tick": "Lnet/minecraft/class_743;method_3129()V"
+      },
+      "pl/bkubiak/bkrynek/client/mixin/PlayerInventoryAccessor": {
+        "selectedSlot": "field_7545:I"
+      },
+      "pl/bkubiak/bkrynek/client/mixin/ScreenHandlerAccessor": {
+        "revision": "field_34024:I",
+        "slots": "field_7761:Lnet/minecraft/class_2371;"
+      }
+    }
+  }
+}

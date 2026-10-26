@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "pl.bkubiak.bkrynek.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "HandledScreenMixin",
+    "HandledScreenAccessor",
+    "ScreenHandlerAccessor",
+    "InGameHudMixin",
+    "KeyboardInputMixin",
+    "PlayerInventoryAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "BK-Rynek-3.0-1.21.4-refmap.json"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "bkrynek",
+  "version": "3.0",
+  "name": "BK-Rynek 3.0",
+  "description": "AutoMarket, profile lokalne i cloud. Interfejs i renderer SystemDLC, czarna paleta.",
+  "authors": [
+    "bkubiakdev"
+  ],
+  "contact": {
+    "homepage": "https://bkubiak.dev/mods",
+    "sources": "https://github.com/xqbkubiak"
+  },
+  "license": "LicenseRef-Mixed",
+  "icon": "assets/bkrynek/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "pl.bkubiak.bkrynek.client.BkRynekClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "bkrynek.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
